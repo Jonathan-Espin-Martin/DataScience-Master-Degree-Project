@@ -1,0 +1,3 @@
+Execution Time: 127096.90 seconds
+Delta RAM Usage (excluding initial): 4422.41 MB
+Delta GPU RAM Usage (excluding initial): 2341.31 MB
