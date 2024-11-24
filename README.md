@@ -69,7 +69,7 @@ This repository provides the implementation and results of a supervised machine 
   - Integrated Gradients analysis highlights key variables impacting failures.
 
 Training performance:  
-![ANN Training Performance](Images/PerformanceLossEpochsANN.png)
+![ANN Training Performance](Images/PerformaceLossEpochsANN.png)
 
 ---
 
