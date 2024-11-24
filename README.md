@@ -27,7 +27,7 @@ The `RuntimeModel` folder is focused on demonstrating the runtime execution of t
 - **Model Output (`output.json`)**: Output from the model showcasing predicted values or classifications.
 
 #### Inside the `RuntimeModel` Folder  
-Each algorithm type—Random Forest, XGBoost, and ANN—contains a dedicated sub-folder named `predictor`, which holds the following:
+Each algorithm type Random Forest, XGBoost, and ANN contains a dedicated sub-folder named `predictor`, which holds the following:
 
 1. **Model Files**:
    - The trained model is stored as a `.rar` file for easy portability.
