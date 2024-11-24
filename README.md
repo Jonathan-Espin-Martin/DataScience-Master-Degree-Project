@@ -48,7 +48,7 @@ This repository provides the implementation and results of a supervised machine 
   - Generator phase current L2 (0.139)
   - Apparent power (0.119)
 
-<img src="Images/FeatureImportanceRF.png" alt="Random Forest Feature Importance" width="600">
+<img src="Images/FeatureImportanceRF.png" alt="Random Forest Feature Importance" width="300">
 
 ---
 
@@ -59,17 +59,17 @@ This repository provides the implementation and results of a supervised machine 
   - Exhaust gas temperature B1 (0.050)
   - Apparent power (0.112)
 
-<img src="Images/FeatureImportanceXGBoost.png" alt="XGBoost Feature Importance" width="600">
+<img src="Images/FeatureImportanceXGBoost.png" alt="XGBoost Feature Importance" width="300">
 
 ---
 
 ### ANN (MLP)
-- **F2 Score**: 0.95  
+- **F2 Score**: 0.98
 - Key Features:
   - Integrated Gradients analysis highlights key variables impacting failures.
 
 Training performance:  
-<img src="Images/PerformaceLossEpochsANN.png" alt="ANN Training Performance" width="600">
+<img src="Images/PerformaceLossEpochsANN.png" alt="ANN Training Performance" width="300">
 
 ---
 
