@@ -48,7 +48,7 @@ This repository provides the implementation and results of a supervised machine 
   - Generator phase current L2 (0.139)
   - Apparent power (0.119)
 
-![Random Forest Feature Importance](Images/FeatureImportanceRF.png)
+<img src="Images/FeatureImportanceRF.png" alt="Random Forest Feature Importance" width="600">
 
 ---
 
@@ -59,7 +59,7 @@ This repository provides the implementation and results of a supervised machine 
   - Exhaust gas temperature B1 (0.050)
   - Apparent power (0.112)
 
-![XGBoost Feature Importance](Images/FeatureImportanceXGBoost.png)
+<img src="Images/FeatureImportanceXGBoost.png" alt="XGBoost Feature Importance" width="600">
 
 ---
 
@@ -69,7 +69,7 @@ This repository provides the implementation and results of a supervised machine 
   - Integrated Gradients analysis highlights key variables impacting failures.
 
 Training performance:  
-![ANN Training Performance](Images/PerformaceLossEpochsANN.png)
+<img src="Images/PerformaceLossEpochsANN.png" alt="ANN Training Performance" width="600">
 
 ---
 
@@ -79,7 +79,7 @@ An interactive dashboard is hosted on the SCADA Ignition platform:
 - **Feature Importance**: Visual insights into the most critical operational variables.  
 - **Historical Analysis**: Explore feature trends over time.  
 
-![Machine Learning Dashboard](Images/MLDashboardPredictionswithFeatures.png)
+<img src="Images/MLDashboardPredictionswithFeatures.png" alt="Machine Learning Dashboard" width="600">
 
 ---
 
